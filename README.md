@@ -42,7 +42,10 @@ The election took place on 16 April 2011 and the front-runners were PDP's Goodlu
 
 
 ### 2015 election
-This election was held on the 28th of March 2015 and the leading candidates in this election were Goodluck Jonathan of the PDP and Muhammadu Buhari of the APC. The PDP lost by 13 million votes and the APC won by 15 million votes. APC received the most votes in Kano, with about 2 million total votes, and PDP received the most votes in Rivers State, with about 1.5 million total votes. in this election, up to 44% of registered voters did not vote in this election
+This election was held on the 28th of March 2015 and the leading candidates in this election were Goodluck Jonathan of the PDP and Muhammadu Buhari of the APC. The PDP lost by 13 million votes and the APC won by 15 million votes. APC received the most votes in Kano, with about 2 million total votes, and PDP received the most votes in Rivers State, with about 1.5 million total votes. In this election, up to 44% of registered voters did not vote.
 ![2015_dashboard](https://user-images.githubusercontent.com/120729134/213401393-dd335a35-01f5-4ec5-8927-1d0c5100d7b2.jpg)
 
 
+### 2019 election
+This election took place on the 23rdof Febuary 2019 andthe front-runners were APC's Muhammadu Buhari and PDP's Atiku Abubakar. APC won with 15 million votes and PDP got 11 million votes. APC recieved the least votes in Anambra, with about 33,000 total votes, and PDP recieved the least votes in Yobe, with about 50,000 total votes.
+In this election, up to 68% of registered voters did not vote.
