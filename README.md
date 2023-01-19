@@ -19,13 +19,13 @@ Due to an inec-led webpage restructuring in 2010 the results from older years ar
 ## Findings
 ### 1999 election
 This election held on the 27th of Febuary 1999 and the top two candidates in the election were Olusegun Obasanjo of the PDP and Olu Falae of the AD-APP. The PDP won the election with a total of 19 million votes compared to AD-APP's 11 million votes. Most of the AD-APP votes came from Lagos State, while most of the PDP votes came from Rivers State. Abuja had the fewest votes for AD-APP and PDP.
-In this election, more than 20% of the 58 million registered voters did not vote
+In this election, about 49% of the 58 million registered voters did not vote
 
 ![1999_dashboard](https://user-images.githubusercontent.com/120729134/213380037-7a14107e-083e-401f-9863-5b8160b7d914.jpg)
 
 
 ### 2003 election
-The election took place on 19 April 2003 and the leading candidates in the election were PDP's Olusegun Obasanjo and ANPP's Muhammadu Buhari. PDP won with 24 million votes and ANPP lost with 13 million votes. The highest PDP votes were from Rivers State, the highest ANPP votes were from Kano State, the lowest PDP votes were from Abuja and the lowest ANPP votes were from Ogun. In this election, more than 20% of the 61 million registered voters did not vote.
+The election took place on 19 April 2003 and the leading candidates in the election were PDP's Olusegun Obasanjo and ANPP's Muhammadu Buhari. PDP won with 24 million votes and ANPP lost with 13 million votes. The highest PDP votes were from Rivers State, the highest ANPP votes were from Kano State, the lowest PDP votes were from Abuja and the lowest ANPP votes were from Ogun. In this election, about 36% of the 61 million registered voters did not vote.
 
 ![2003_dashboard](https://user-images.githubusercontent.com/120729134/213387243-0642645d-c676-4f83-a5e9-6a276352164c.jpg)
 
@@ -42,8 +42,7 @@ The election took place on 16 April 2011 and the front-runners were PDP's Goodlu
 
 
 ### 2015 election
-
-
+This election was held on the 28th of March 2015 and the leading candidates in this election were Goodluck Jonathan of the PDP and Muhammadu Buhari of the APC. The PDP lost by 13 million votes and the APC won by 15 million votes. APC received the most votes in Kano, with about 2 million total votes, and PDP received the most votes in Rivers State, with about 1.5 million total votes. in this election, up to 44% of registered voters did not vote in this election
 ![2015_dashboard](https://user-images.githubusercontent.com/120729134/213401393-dd335a35-01f5-4ec5-8927-1d0c5100d7b2.jpg)
 
 
