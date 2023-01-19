@@ -1,4 +1,4 @@
-# Analysis-on-the-top-2-candidates-in-the-Nigerian-election-since-1999
+# An Analysis of the top two candidates in the Nigerian presidential elections from 1999 to the Present
 ## by Oluchukwu Onyemaenu
 
 ## Introduction
