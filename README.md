@@ -19,9 +19,10 @@ Due to an inec-led webpage restructuring in 2010 the results from older years ar
 ## Findings
 ### 1999 election
 This election held on the 27th of Febuary 1999 and the top two candidates in the election were Olusegun Obasanjo of the PDP and Olu Falae of the AD-APP. The PDP won the election with a total of 19 million votes compared to AD-APP's 11 million votes. Most of the AD-APP votes came from Lagos State, while most of the PDP votes came from Rivers State. Abuja had the fewest votes for AD-APP and PDP.
-During this election, only 20% of the 58 million registered voters voted.
+In this election, more than 20% of the 58 million registered voters did not vote
 
 ![1999_dashboard](https://user-images.githubusercontent.com/120729134/213380037-7a14107e-083e-401f-9863-5b8160b7d914.jpg)
+
 
 ### 2003 election
 The election took place on 19 April 2003 and the leading candidates in the election were PDP's Olusegun Obasanjo and ANPP's Muhammadu Buhari. PDP won with 24 million votes and ANPP lost with 13 million votes. The highest PDP votes were from Rivers State, the highest ANPP votes were from Kano State, the lowest PDP votes were from Abuja and the lowest ANPP votes were from Ogun. In this election, more than 20% of the 61 million registered voters did not vote.
