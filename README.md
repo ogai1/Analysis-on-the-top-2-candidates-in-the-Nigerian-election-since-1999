@@ -29,3 +29,7 @@ The election took place on 19 April 2003 and the leading candidates in the elect
 
 ![2003_dashboard](https://user-images.githubusercontent.com/120729134/213387243-0642645d-c676-4f83-a5e9-6a276352164c.jpg)
 
+
+### 2007 election
+This election was held on April 21, 2007. the leading candidated in this election were Umaru Yar'Adua Of the PDP and Muhammadu Buhari of the ANPP. ANPP lost miserably to PDP by 25 million to 7 million
+![2007_dashboard](https://user-images.githubusercontent.com/120729134/213393610-e6d6e762-033e-4edc-8c10-11d5ff3161c0.jpg)
