@@ -27,4 +27,5 @@ During this election, only 20% of the 58 million registered voters voted.
 The election took place on 19 April 2003 and the leading candidates in the election were PDP's Olusegun Obasanjo and ANPP's Muhammadu Buhari. PDP won with 24 million votes and ANPP lost with 13 million votes. The highest PDP votes were from Rivers State, the highest ANPP votes were from Kano State, the lowest PDP votes were from Abuja and the lowest ANPP votes were from Ogun. During this election, over 20% of the 61 million registered voters voted.
 
 
-![2007_dashboard](https://user-images.githubusercontent.com/120729134/213383625-653c7eff-4c96-41d0-b0c7-eab391eea139.jpg)
+![2003_dashboard](https://user-images.githubusercontent.com/120729134/213387243-0642645d-c676-4f83-a5e9-6a276352164c.jpg)
+
