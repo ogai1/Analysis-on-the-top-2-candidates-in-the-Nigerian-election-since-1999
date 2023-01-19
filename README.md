@@ -14,8 +14,9 @@ Due to an inec-led webpage restructuring in 2010 the results from older years ar
 * Sorted and filtered the dataset to determine the highest and lowest votes by political party and state.
 * No data model was created because the datasets were analyzed separately.
 
+
 ## Findings
-# 1999 election
+### 1999 election
 This election held on the 27th of Febuary 1999 and the top two candidates in the election were Olusegun Obasanjo of the PDP and Olu Falae of the AD-APP. The PDP won the election with a total of 19 million votes compared to AD-APP's 11 million votes. Most of the AD-APP votes came from Lagos State, while most of the PDP votes came from Rivers State. Abuja had the fewest votes for AD-APP and PDP.
 It also found that only 20% of the 58 million registered voters voted.
 
