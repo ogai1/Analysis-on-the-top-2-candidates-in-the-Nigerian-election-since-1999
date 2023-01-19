@@ -31,5 +31,19 @@ The election took place on 19 April 2003 and the leading candidates in the elect
 
 
 ### 2007 election
-This election was held on April 21, 2007. the leading candidated in this election were Umaru Yar'Adua Of the PDP and Muhammadu Buhari of the ANPP. ANPP lost miserably to PDP by 25 million to 7 million
+This election was held on April 21, 2007. The leading candidates in this election were Umaru Yar'Adua Of the PDP and Muhammadu Buhari of the ANPP. ANPP lost miserably to PDP by 25 million to 7 million
 ![2007_dashboard](https://user-images.githubusercontent.com/120729134/213393610-e6d6e762-033e-4edc-8c10-11d5ff3161c0.jpg)
+
+
+### 2011 election
+The election took place on 16 April 2011 and the front-runners were PDP's Goodluck Jonathan and CPC's Muhammadu Buhari. PDP won with 23 million votes and CPC got  12 million votes. For the first time in Nigeria's electoral history, a third party, the ACN, won in Osun State.
+
+![2011_dashboard](https://user-images.githubusercontent.com/120729134/213394983-f4767a2e-82fc-445b-902a-e852d899d36c.jpg)
+
+
+### 2015 election
+
+
+![2015_dashboard](https://user-images.githubusercontent.com/120729134/213401393-dd335a35-01f5-4ec5-8927-1d0c5100d7b2.jpg)
+
+
